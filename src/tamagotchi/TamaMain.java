@@ -1,4 +1,4 @@
-package tamagotchies;
+package tamagotchi;
 
 import java.util.Scanner;
 import it.unibs.fp.mylib.InputDati;
